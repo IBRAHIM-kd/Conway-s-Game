@@ -1,0 +1,4 @@
+/home/ibro/Documents/Conway's Game/Conway.Library.MSTest/obj/Debug/netcoreapp3.1/Conway.Library.MSTest.csprojAssemblyReference.cache
+/home/ibro/Documents/Conway's Game/Conway.Library.MSTest/obj/Debug/netcoreapp3.1/Conway.Library.MSTest.AssemblyInfoInputs.cache
+/home/ibro/Documents/Conway's Game/Conway.Library.MSTest/obj/Debug/netcoreapp3.1/Conway.Library.MSTest.AssemblyInfo.cs
+/home/ibro/Documents/Conway's Game/Conway.Library.MSTest/obj/Debug/netcoreapp3.1/Conway.Library.MSTest.csproj.CoreCompileInputs.cache

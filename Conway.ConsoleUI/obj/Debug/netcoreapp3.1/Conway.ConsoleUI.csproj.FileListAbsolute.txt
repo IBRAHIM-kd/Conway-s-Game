@@ -1,0 +1,4 @@
+/home/ibro/Documents/Conway's Game/Conway.ConsoleUI/obj/Debug/netcoreapp3.1/Conway.ConsoleUI.csprojAssemblyReference.cache
+/home/ibro/Documents/Conway's Game/Conway.ConsoleUI/obj/Debug/netcoreapp3.1/Conway.ConsoleUI.AssemblyInfoInputs.cache
+/home/ibro/Documents/Conway's Game/Conway.ConsoleUI/obj/Debug/netcoreapp3.1/Conway.ConsoleUI.AssemblyInfo.cs
+/home/ibro/Documents/Conway's Game/Conway.ConsoleUI/obj/Debug/netcoreapp3.1/Conway.ConsoleUI.csproj.CoreCompileInputs.cache

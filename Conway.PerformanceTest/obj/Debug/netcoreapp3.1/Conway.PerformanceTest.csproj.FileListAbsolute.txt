@@ -1,0 +1,4 @@
+/home/ibro/Documents/Conway's Game/Conway.PerformanceTest/obj/Debug/netcoreapp3.1/Conway.PerformanceTest.csprojAssemblyReference.cache
+/home/ibro/Documents/Conway's Game/Conway.PerformanceTest/obj/Debug/netcoreapp3.1/Conway.PerformanceTest.AssemblyInfoInputs.cache
+/home/ibro/Documents/Conway's Game/Conway.PerformanceTest/obj/Debug/netcoreapp3.1/Conway.PerformanceTest.AssemblyInfo.cs
+/home/ibro/Documents/Conway's Game/Conway.PerformanceTest/obj/Debug/netcoreapp3.1/Conway.PerformanceTest.csproj.CoreCompileInputs.cache

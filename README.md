@@ -4,7 +4,7 @@ Implementation of the [Conway's Game of Life](http://en.wikipedia.org/wiki/Conwa
 
 ## Usage ##
 
-1. Clone this repository.
+ Clone this repository.
 
  git clone https://github.com/IBRAHIM-kd/Conway-s-Game.git
  

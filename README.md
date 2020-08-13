@@ -6,10 +6,10 @@ Implementation of the [Conway's Game of Life](http://en.wikipedia.org/wiki/Conwa
 
 1. Clone this repository.
 
-git clone https://github.com/IBRAHIM-kd/Conway-s-Game.git
+ git clone https://github.com/IBRAHIM-kd/Conway-s-Game.git
+ 
+ run command dotnet run ----- 
 
-Than import it and run in on vscode -visual studio code editor. 
+ the folders including all with the tests coverage files attached.
 
-the folders including all with the tests coverage files attached.
-
-So Goodluck!
+ So Goodluck!
